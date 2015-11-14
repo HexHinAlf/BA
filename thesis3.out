@@ -1,0 +1,15 @@
+\BOOKMARK [0][-]{chapter*.5}{Tabellenverzeichnis}{}% 1
+\BOOKMARK [0][-]{chapter*.6}{Abbildungsverzeichnis}{}% 2
+\BOOKMARK [0][-]{chapter.1}{1 Einf\374hrung}{}% 3
+\BOOKMARK [0][-]{chapter.2}{2 Analyse}{}% 4
+\BOOKMARK [1][-]{section.2.1}{2.1 Hardware}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Raspberry Pi}{section.2.1}% 6
+\BOOKMARK [1][-]{section.2.2}{2.2 Optische Zeichenerkennung \(OCR\)}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Wie liest ein Mensch?}{section.2.2}% 8
+\BOOKMARK [0][-]{chapter.3}{3 Design}{}% 9
+\BOOKMARK [0][-]{chapter.4}{4 Realisierung}{}% 10
+\BOOKMARK [1][-]{section.4.1}{4.1 Aufnahme und Einordnung eines Fotos}{chapter.4}% 11
+\BOOKMARK [1][-]{section.4.2}{4.2 Bildverbesserung}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.3}{4.3 Optische Zeichenerkennung \(OCR\)}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.4}{4.4 Sprachsynthese \(TTS\)}{chapter.4}% 14
+\BOOKMARK [0][-]{chapter*.7}{Literaturverzeichnis}{}% 15

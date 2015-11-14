@@ -1,0 +1,19 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {english}
+\select@language {ngerman}
+\contentsline {chapter}{Tabellenverzeichnis}{6}{chapter*.5}
+\contentsline {chapter}{Abbildungsverzeichnis}{7}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Einf\"uhrung}{8}{chapter.1}
+\contentsline {chapter}{\numberline {2}Analyse}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Hardware}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Raspberry Pi}{9}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Optische Zeichenerkennung (OCR)}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Wie liest ein Mensch?}{10}{subsection.2.2.1}
+\contentsline {chapter}{\numberline {3}Design}{11}{chapter.3}
+\contentsline {chapter}{\numberline {4}Realisierung}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Aufnahme und Einordnung eines Fotos}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Bildverbesserung}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Optische Zeichenerkennung (OCR)}{12}{section.4.3}
+\contentsline {section}{\numberline {4.4}Sprachsynthese (TTS)}{12}{section.4.4}
+\contentsline {chapter}{Literaturverzeichnis}{13}{chapter*.7}

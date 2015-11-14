@@ -1,0 +1,223 @@
+\begin{thebibliography}{32}
+% this bibliography was produced with the style dinat.bst v2.5
+\makeatletter
+\newcommand{\dinatlabel}[1]%
+{\ifNAT@numbers\else\NAT@biblabelnum{#1}\hspace{2\labelsep}\fi}
+\makeatother
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
+
+\bibitem[Babic(2003)]{Babic:2003}
+\dinatlabel{Babic 2003} \textsc{Babic}, Alexander:
+\newblock \emph{Entwicklung einer profilverarbeitenden ubiquitären Anwendung},
+  \HAW, Diplomarbeit, 2003. --
+\newblock URL
+  \url{http://users.informatik.haw-hamburg.de/~ubicomp/arbeiten/diplom/babic.pdf}
+
+\bibitem[Bigus und Bigus(2001)]{Bigus:2001}
+\dinatlabel{Bigus und Bigus 2001} \textsc{Bigus}, Joseph~; \textsc{Bigus},
+  Jennifer:
+\newblock \emph{Intelligente Agenten mit Java programmieren}.
+\newblock Addison-Wesley, 2001. --
+\newblock ISBN 3-8273-1841-6
+
+\bibitem[B{\"o}hm(2002)]{Boehm:2002}
+\dinatlabel{B{\"o}hm 2002} \textsc{B{\"o}hm}, Oliver:
+\newblock \emph{Java Software Engineering unter Linux}.
+\newblock SuSE Press, 2002. --
+\newblock ISBN 3-935922-53-1
+
+\bibitem[Dawson(2003)]{Dawson:2003}
+\dinatlabel{Dawson 2003} \textsc{Dawson}, Christian~W.:
+\newblock \emph{Computerprojekte im Klartext}.
+\newblock Pearson Studium, 2003. --
+\newblock ISBN 3-8273-7067-1
+
+\bibitem[DeMarco und Lister(1999)]{Demarco:1999}
+\dinatlabel{DeMarco und Lister 1999} \textsc{DeMarco}, Tom~; \textsc{Lister},
+  Tomothy:
+\newblock \emph{Wien wartet auf Dich - Der Faktor Mensch im DV-Management}.
+\newblock Carl Hanser Verlag München Wien, 1999. --
+\newblock ISBN 3-446-21277-9
+
+\bibitem[Drosdowski u.\,a.(1997)Drosdowski, Scholze-Stubenrecht und
+  Wermke]{Duden:1997}
+\dinatlabel{Drosdowski u.\,a. 1997} \textsc{Drosdowski}, {Prof. Dr. Dr. h.c.
+  G{\"u}nther} (Hrsg.)~; \textsc{Scholze-Stubenrecht}, Dr.~W. (Hrsg.)~;
+  \textsc{Wermke}, Dr.~M. (Hrsg.):
+\newblock \emph{Das Fremd{\"o}rterbuch}.
+\newblock Duden, 1997. --
+\newblock ISBN 3-411-04056-4
+
+\bibitem[Ferber(2001)]{Ferber:2001}
+\dinatlabel{Ferber 2001} \textsc{Ferber}, Jacques:
+\newblock \emph{Multiagentensysteme}.
+\newblock Addison-Wesley, 2001. --
+\newblock ISBN 3-8273-1679-0
+
+\bibitem[Goossens u.\,a.(2000)Goossens, Mittelbach und Samarin]{Goossens:2000}
+\dinatlabel{Goossens u.\,a. 2000} \textsc{Goossens}, Michel~;
+  \textsc{Mittelbach}, Frank~; \textsc{Samarin}, Alexander:
+\newblock \emph{Der \myLatex-Begleiter}.
+\newblock Addison-Wesley, 2000. --
+\newblock ISBN 3-8273-1689-8
+
+\bibitem[G{\"u}nther(2002)]{Guenther:2002}
+\dinatlabel{G{\"u}nther 2002} \textsc{G{\"u}nther}, Karsten:
+\newblock \emph{\myLatex GE-PACKT}.
+\newblock mitp, 2002. --
+\newblock ISBN 3-8266-0785-6
+
+\bibitem[Heinsohn und Socher-Ambrosius(1999)]{Heinsohn:1999}
+\dinatlabel{Heinsohn und Socher-Ambrosius 1999} \textsc{Heinsohn}, Jochen~;
+  \textsc{Socher-Ambrosius}, Rolf:
+\newblock \emph{Wissensverarbeitung}.
+\newblock Spektrum Akademischer Verlag, 1999. --
+\newblock ISBN 3-8274-0308-1
+
+\bibitem[Hewlett-Packard(2004)]{HP:2004}
+\dinatlabel{Hewlett-Packard 2004} \textsc{Hewlett-Packard}:
+\newblock \emph{Cooltown (Overview)}.
+\newblock 2004. --
+\newblock URL \url{http://www.cooltown.com/cooltown/}
+
+\bibitem[H{\"o}rauf(2001)]{Hoerauf:2001}
+\dinatlabel{H{\"o}rauf 2001} \textsc{H{\"o}rauf}, Julia:
+\newblock \emph{Hewlett-Packard Cooltown Project}.
+\newblock Universit{\"a}t Karlsruhe - Institut f{\"u}r Telematik, Seminararbeit
+  zum Seminar Ubiquit{\"a}re Systeme.
+\newblock 2001. --
+\newblock URL
+  \url{http://www.informatik.uni-mannheim.de/pi4/lectures/ws0102/UbiquitousComputing/cooltown_arbeit.pdf}
+
+\bibitem[Hunt und Thomas(2003)]{Hunt:2003}
+\dinatlabel{Hunt und Thomas 2003} \textsc{Hunt}, Andrew~; \textsc{Thomas},
+  David:
+\newblock \emph{Der Pragmatische Programmierer}.
+\newblock Hanser, 2003. --
+\newblock ISBN 3-446-22309-6
+
+\bibitem[IDEAlliance(2004)]{CPEX:2004}
+\dinatlabel{IDEAlliance 2004} \textsc{IDEAlliance}:
+\newblock \emph{CP Exchange}.
+\newblock 2004. --
+\newblock URL \url{http://www.cpexchange.org/standard/}
+
+\bibitem[Kohm und Morawksi(2003)]{Kohm:2003}
+\dinatlabel{Kohm und Morawksi 2003} \textsc{Kohm}, Markus~; \textsc{Morawksi},
+  Jens-Uwe:
+\newblock \emph{KOMA-Script}.
+\newblock dante, 2003. --
+\newblock ISBN 3-936427-45-3
+
+\bibitem[Kollakowski(2004)]{Kollakowski:2004}
+\dinatlabel{Kollakowski 2004} \textsc{Kollakowski}, Malte:
+\newblock Mobile Aktivit{\"a}ten.
+\newblock In: \emph{Der Entwickler}
+\newblock (2004), April, Nr.~4.04, S.~15--20
+
+\bibitem[Kruse(2000)]{Kruse:2000}
+\dinatlabel{Kruse 2000} \textsc{Kruse}, Otto:
+\newblock \emph{Keine Angst vor dem leeren Blatt}.
+\newblock campus concret, 2000. --
+\newblock ISBN 3-593-36659-2
+
+\bibitem[K{\"u}hnel(2001)]{Kuehnel:2001}
+\dinatlabel{K{\"u}hnel 2001} \textsc{K{\"u}hnel}, Ralf:
+\newblock \emph{Agentenbasierte Softwareentwicklung}.
+\newblock Addison-Wesley, 2001. --
+\newblock ISBN 3-8273-1739-8
+
+\bibitem[Kurose und Ross(2002)]{KuroseRoss:2002}
+\dinatlabel{Kurose und Ross 2002} \textsc{Kurose}, James~F.~; \textsc{Ross},
+  Keith~W.:
+\newblock \emph{Computernetze}.
+\newblock Pearson Studium, 2002. --
+\newblock ISBN 3-8273-7017-5
+
+\bibitem[Lamport(1995)]{Lamport:1995}
+\dinatlabel{Lamport 1995} \textsc{Lamport}, Leslie:
+\newblock \emph{Das \myLatex Handbuch}.
+\newblock Addison-Wesley, 1995. --
+\newblock ISBN 3-89319-826-1
+
+\bibitem[von L{\"u}de u.\,a.(2004)von L{\"u}de, Moldt und Valk]{Luede:2004}
+\dinatlabel{von L{\"u}de u.\,a. 2004} \textsc{L{\"u}de}, Rolf von~;
+  \textsc{Moldt}, Daniel~; \textsc{Valk}, R{\"u}diger:
+\newblock \emph{Sozionik - Modellierung soziologischer Theorie}.
+\newblock LIT, 2004. --
+\newblock ISBN 3-8258-5980-0
+
+\bibitem[Luger(2001)]{Luger:2001}
+\dinatlabel{Luger 2001} \textsc{Luger}, George~F.:
+\newblock \emph{K{\"u}nstliche Intelligenz}.
+\newblock Pearson Studium, 2001. --
+\newblock ISBN 3-8273-7002-7
+
+\bibitem[L{\"u}pke(2004)]{Luepke:2004}
+\dinatlabel{L{\"u}pke 2004} \textsc{L{\"u}pke}, André:
+\newblock \emph{Entwurf einer Sicherheitsarchitektur f{\"u}r den Einsatz
+  mobiler Endger{\"a}te}, \HAW, Diplomarbeit, 2004. --
+\newblock URL
+  \url{http://users.informatik.haw-hamburg.de/~ubicomp/arbeiten/diplom/luepke.pdf}
+
+\bibitem[Nilsson(1998)]{Nilsson:1998}
+\dinatlabel{Nilsson 1998} \textsc{Nilsson}, Nils~J.:
+\newblock \emph{Artificial Intelligence: A New Synthesis}.
+\newblock Morgan Kaufmann, 1998. --
+\newblock ISBN 1-55860-535-5
+
+\bibitem[Poenicke(1988)]{Poenicke:1988}
+\dinatlabel{Poenicke 1988} \textsc{Poenicke}, Klaus:
+\newblock \emph{Wie verfaßt man wissenschaftliche Arbeiten?}
+\newblock Duden, 1988. --
+\newblock ISBN 3-411-02751-7
+
+\bibitem[R{\"o}tzer(1999)]{Roetzer:1999}
+\dinatlabel{R{\"o}tzer 1999} \textsc{R{\"o}tzer}, Florian:
+\newblock \emph{Ein neuer Standard soll Kundendaten zusammenführen}.
+\newblock 1999. --
+\newblock URL \url{http://www.heise.de/newsticker/meldung/6970}
+
+\bibitem[Schirru(2004)]{Schirru:2004}
+\dinatlabel{Schirru 2004} \textsc{Schirru}, Rafael:
+\newblock \emph{Trust, Reputation, Privacy}.
+\newblock Universit{\"a}t Karlsruhe - Lehrgebiet Datenverwaltungssysteme,
+  Seminararbeit zum Seminar Grundlagen webbasierter Informationssysteme.
+\newblock 2004. --
+\newblock URL
+  \url{http://wwwdvs.informatik.uni-kl.de/courses/seminar/SS2004/rschirrub.pdf}
+
+\bibitem[Schmatz(2004)]{Schmatz:2004}
+\dinatlabel{Schmatz 2004} \textsc{Schmatz}, Klaus-Dieter:
+\newblock \emph{Java 2 Micro Edition - Entwicklung mobiler Anwendungen mit CLDC
+  und MIDP}.
+\newblock dpunkt.verlag, 2004. --
+\newblock ISBN 3-89864-271-2
+
+\bibitem[Streitz und Nixon(2005)]{Streitz:2005}
+\dinatlabel{Streitz und Nixon 2005} \textsc{Streitz}, Norbert~; \textsc{Nixon},
+  Paddy:
+\newblock The Disappearing Computer.
+\newblock In: \emph{Communications of the ACM}
+\newblock 48 (2005), M\^^b{a}rz, Nr.~3, S.~33--35
+
+\bibitem[Vogt(2001)]{Vogt:2001}
+\dinatlabel{Vogt 2001} \textsc{Vogt}, Carsten:
+\newblock \emph{Betriebssysteme}.
+\newblock Spektrum Akademischer Verlag, 2001. --
+\newblock ISBN 3-8274-1117-3
+
+\bibitem[W3C(2004)]{P3P:2004}
+\dinatlabel{W3C 2004} \textsc{W3C}:
+\newblock \emph{Platform For Privacy Preferences (P3P) Project}.
+\newblock 2004. --
+\newblock URL \url{http://www.w3.org/P3P/}
+
+\bibitem[Wooldridge(2002)]{Wooldridge:2002}
+\dinatlabel{Wooldridge 2002} \textsc{Wooldridge}, Michael:
+\newblock \emph{MultiAgent Systems}.
+\newblock Wiley, 2002. --
+\newblock ISBN 0-471-49691-X
+
+\end{thebibliography}
